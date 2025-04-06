@@ -1,0 +1,7 @@
+//pseudocode
+//
+
+
+function getComputerChoice(){
+
+}
