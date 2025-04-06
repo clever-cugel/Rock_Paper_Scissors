@@ -10,7 +10,9 @@ function getComputerChoice() {
 }
 
 function getHumanChoice() {
-
+    let choice = prompt('Enter your choice (r,p,s): ');
+    return choice;
 }
 
-console.log(getComputerChoice());
+let humanScore = 0;
+let computerScore = 0;
